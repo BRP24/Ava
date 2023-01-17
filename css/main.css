@@ -11,6 +11,10 @@ body {
 	margin: 0 auto;
 }
 
+::-webkit-scrollbar {
+	display: none;
+}
+
 p {
 	font-family: 'Roboto', sans-serif;
 }
